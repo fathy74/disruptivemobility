@@ -1,0 +1,10 @@
+form{max-width:450px; margin:50px auto;  }
+.contact-form .custom-alert{padding:5px 10px; display:none;}
+form input, form textarea{margin-bottom:5px}
+
+form textarea{height:300px!important}
+.contact-form .form-group{margin-bottom:0; position: relative;}
+.contact-form .asterisx{height:0; font-size:22px; color:#b90d0d; 
+    position: absolute; right:10px; top:6px; float:right}
+
+    .alert{margin-bottom:10px}
